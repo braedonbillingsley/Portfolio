@@ -1,0 +1,18 @@
+{
+  "name": "personal/portfolio",
+  "description": "Personal Technical Portfolio",
+  "authors": [
+    {
+      "name": "Braedon Billingsley",
+      "email": "braedon1billingsley@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master",
+    "ext-pdo": "*",
+    "ext-ctype": "*"
+  },
+  "autoload": {
+    "classmap": [ "app/" ]
+  }
+}
