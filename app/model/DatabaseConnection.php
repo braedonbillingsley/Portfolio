@@ -1,9 +1,9 @@
 <?php
 /**
- *  This is the DATABASE CONNECTION for MetaDirect database access*
- *  @authors Mehak Saini, Braedon Billingsley, Jack Le
+ *  This is the DATABASE CONNECTION for my Portfolio database connection using PDO
+ *  @authors Braedon Billingsley
  *  @copyright 2024
- *  @url https://bbillingsley.greenriverdev.com/328/MetaDirect
+ *  @url https://bbillingsley.greenriverdev.com/portfolio
  */
 require_once($_SERVER['DOCUMENT_ROOT'] .'/../portfolio-db-config.php');
 class DatabaseConnection
