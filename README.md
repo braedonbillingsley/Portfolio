@@ -1,2 +1,2 @@
 # Portfolio
-My personal portfolio showcasing Software Engineering experience.
+Personal portfolio webpage showcasing a biography, my Software Engineering experience, and a guestbook.
